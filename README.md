@@ -1,7 +1,3 @@
-## Portrait
-
-![Portrait](./portrait.png)
-
 ## Links
 
 - [pixiv](https://www.pixiv.net/member.php?id=16775)
