@@ -1,4 +1,4 @@
-[Go to my page](https://20m.61.contact)
+[Go to my page](https://20m.61.contact){:target="_blank"}
 
 ## Links
 
